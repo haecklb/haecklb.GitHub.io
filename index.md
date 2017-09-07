@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages :paw_prints:
+## Welcome to Brianna's GitHub Page! :paw_prints:
+Here you'll find some general information about GitHub pages:
 
 You can use the [editor on GitHub](https://github.com/haecklb/haecklb.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
